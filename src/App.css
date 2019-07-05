@@ -1,0 +1,26 @@
+h4{
+
+  padding-left:300px;
+  padding-top: 50px;
+}
+#app {
+  background-color:gainsboro
+   
+}
+table{
+
+  padding-left:300px;
+}
+a{
+
+
+  cursor:pointer;
+}
+.middle {
+  display: flex;
+  justify-content: space-around;
+}
+.right {
+  display: flex;
+  justify-content: space-around;
+}
